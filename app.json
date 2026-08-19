@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner":"phuai2ks-team",
     "name": "SShoes Nhập",
     "slug": "sshoessmart2026",
     "version": "2.0.0",
@@ -46,6 +47,11 @@
           "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera to scan barcodes"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "906c160c-5755-4e45-9f81-9da80c3cd195"
+      }
+    }
   }
 }
